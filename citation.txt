@@ -1,0 +1,8 @@
+@inproceedings{REPO328,
+    author = "Sun, Zhaodong and Li, Xiaobai",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "492--510",
+    title = "{Contrast-Phys: Unsupervised Video-Based Remote Physiological Measurement via Spatiotemporal Contrast}",
+    year = "2022"
+}
